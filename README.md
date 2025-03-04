@@ -1,4 +1,4 @@
-# Gestão de Dados de Aluguel de Bicicleta
+# Análise de Dados de Aluguel de Bicicleta
 
 ## Visão Geral do Projeto
 Este projeto envolve a exploração, limpeza e integração dos dados de uso do Citi Bike com os dados meteorológicos da NOAA para criar um banco de dados PostgreSQL com views prontas para análise. O objetivo é ajudar uma empresa de aluguel de bicicletas a analisar o impacto das condições climáticas no aluguel de bicicletas.
