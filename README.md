@@ -16,7 +16,7 @@ Este projeto envolve a exploração, limpeza e integração dos dados de uso do 
 
 ## Instructions
 1. Comece com o notebook `aluguel_bicicleta_Clean.ipynb`para explorar e limpar os dados de uso do Citi Bike.
-2. Execute o script `aluguel_bicicleta_ERD.sql` em [dbdiagram.io](https://dbdiagram.io) para criar o esquema do banco de dados PostgreSQL como `bike_rental_ERD.pdf`
+2. Execute o script `aluguel_bicicleta_ERD.sql` em [dbdiagram.io](https://dbdiagram.io) para criar o esquema do banco de dados PostgreSQL como `aluguel_bicicleta_ERD.pdf`
 3. Execute o script "Creating the Database" e "Creating PostgreSQL Tables" no arquivo `aluguel_bicicleta_Clean.ipynb` para transformar e carregar os dados integrados no banco de dados PostgreSQL.
 4. Por fim, execute o script `aluguel_bicicleta_views.sql` para criar views prontas para análise para a equipe de analytics.
 
