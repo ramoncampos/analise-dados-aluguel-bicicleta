@@ -23,10 +23,10 @@ Este projeto envolve a exploração, limpeza e integração dos dados de uso do 
 ## Arquivos Necessários
 * ### Dados
 	* `newark_airport_2016.csv`: dados meteorológicos do aeroporto de Newark.
-	* `JC-2016xx-citibike-tripdata.csv`: 12 arquivos, cada um contendo os dados de um mês de aluguel de bicicletas do Citi Bike de Jersey City.
+	* `JC-2016xx-citibike-tripdata.csv`: 12 arquivos, cada um contendo os dados de um mês de aluguel de bicicletas do [Citi Bike](https://citibikenyc.com/system-data) de Jersey City.
 
 * ### Dicionário de Dados
-	* `citibike.pdf`: detalhes sobre os arquivos de dados do Citi Bike estão disponíveis no site do Citi Bike.
+	* `citibike.pdf`: detalhes sobre os arquivos de dados do Citi Bike estão disponíveis no site do [Citi Bike](https://citibikenyc.com/system-data).
 	* `weather.pdf`: detalhes sobre os dados meteorológicos estão disponíveis no site da NOAA (Administração Nacional Oceânica e Atmosférica).
 
 ## Observação
