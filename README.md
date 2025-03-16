@@ -30,7 +30,7 @@ Este projeto envolve a exploração, limpeza e integração dos dados de uso do 
 	* `weather.pdf`: detalhes sobre os dados meteorológicos estão disponíveis no site da NOAA (Administração Nacional Oceânica e Atmosférica).
 
 * ### Diagrama Entidade Relacionamento
-  ![ERD](https://github.com/ramoncampos/analise-dados-aluguel-bicicleta/blob/main/ERD_bicicleta.png?raw=true) 
+  ![ERD](https://github.com/ramoncampos/analise-dados-aluguel-bicicleta/blob/main/ERD_bicicleta.png?raw=true)
 
 ## Observação
 Certifique-se de ter os direitos de acesso e credenciais necessários para criar e manipular bancos de dados no PostgreSQL. Atualize os detalhes de conexão e os caminhos dos arquivos conforme necessário nos scripts
