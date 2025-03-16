@@ -14,7 +14,7 @@ Este projeto envolve a exploração, limpeza e integração dos dados de uso do 
 * [dbdiagram.io](https://dbdiagram.io) Uma ferramenta de design de relacionamento de banco de dados.
 * Banco de Dados PostgreSQL
 
-## Instructions
+## Instruções
 1. Comece com o notebook `aluguel_bicicleta_Clean.ipynb`para explorar e limpar os dados de uso do Citi Bike.
 2. Execute o script `aluguel_bicicleta_ERD.sql` em [dbdiagram.io](https://dbdiagram.io) para criar o esquema do banco de dados PostgreSQL como `aluguel_bicicleta_ERD.pdf`
 3. Execute o script "Creating the Database" e "Creating PostgreSQL Tables" no arquivo `aluguel_bicicleta_Clean.ipynb` para transformar e carregar os dados integrados no banco de dados PostgreSQL.
@@ -23,10 +23,10 @@ Este projeto envolve a exploração, limpeza e integração dos dados de uso do 
 ## Arquivos Necessários
 * ### Dados
 	* `newark_airport_2016.csv`: dados meteorológicos do aeroporto de Newark.
-	* `JC-2016xx-citibike-tripdata.csv`: 12 arquivos, cada um contendo os dados de um mês de aluguel de bicicletas do Citi Bike de Jersey City.
+	* `JC-2016xx-citibike-tripdata.csv`: 12 arquivos, cada um contendo os dados de um mês de aluguel de bicicletas do [Citi Bike](https://citibikenyc.com/system-data) de Jersey City.
 
 * ### Dicionário de Dados
-	* `citibike.pdf`: detalhes sobre os arquivos de dados do Citi Bike estão disponíveis no site do Citi Bike.
+	* `citibike.pdf`: detalhes sobre os arquivos de dados do Citi Bike estão disponíveis no site do [Citi Bike](https://citibikenyc.com/system-data).
 	* `weather.pdf`: detalhes sobre os dados meteorológicos estão disponíveis no site da NOAA (Administração Nacional Oceânica e Atmosférica).
 
 ## Observação
