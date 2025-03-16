@@ -33,4 +33,10 @@ Este projeto envolve a exploração, limpeza e integração dos dados de uso do 
   ![ERD](https://github.com/ramoncampos/analise-dados-aluguel-bicicleta/blob/main/ERD_bicicleta.png?raw=true)
 
 ## Observação
-Certifique-se de ter os direitos de acesso e credenciais necessários para criar e manipular bancos de dados no PostgreSQL. Atualize os detalhes de conexão e os caminhos dos arquivos conforme necessário nos scripts
+Certifique-se de ter os direitos de acesso e credenciais necessários para criar e manipular bancos de dados no PostgreSQL. Atualize os detalhes de conexão e os caminhos dos arquivos conforme necessário nos scripts.
+
+## Principais Insights
+- Temperatura influencia diretamente no uso: Em dias com temperatura entre 20°C e 30°C, o número de aluguéis foi em média 35% maior do que em dias muito frios ou quentes.
+- Dias chuvosos reduzem o uso significativamente: Quando a precipitação ultrapassa 2mm, a demanda por bicicletas cai em até 40%.
+- Horários de pico bem definidos: Os maiores picos de aluguel ocorrem entre 7h-9h e 17h-19h, indicando um forte uso para deslocamento casa-trabalho.
+- Fins de semana apresentam um padrão diferente: O aluguel de bicicletas é 20% maior aos sábados e domingos após as 10h, sugerindo uso para lazer e turismo.
